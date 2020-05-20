@@ -18,7 +18,7 @@ Please see the [LICENSE](https://github.com/oasis-tcs/openc2-ap-sfpf/blob/master
 
 ## Further Description of this Repository
 
-*Any narrative content may be provided here by the TC, for example, if the Members wish to provide an extended statement of purpose.*
+This repository is to help define the commands and arguments for managing a stateful packet filter or firewall
 
 ## Contact
 
