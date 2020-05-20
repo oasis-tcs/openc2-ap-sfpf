@@ -2,7 +2,7 @@
 ![OASIS Logo](http://docs.oasis-open.org/templates/OASISLogo-v2.0.jpg)
 -------
 
-# Please change to Working release
+# - Please change to Working Branch -
 
 # Open Command and Control (OpenC2) Profile for Stateful Packet Filter Version 1.0
 
