@@ -45,19 +45,19 @@ Note that any machine-readable content ([Computer Language Definitions](https://
 
 #### URI patterns:
 Initial publication URI:  
-https://docs.oasis-open.org/openc2/ap-sbom/v1.0/csprd01/ap-sbom-v1.0-csprd01.html
+https://docs.oasis-open.org/openc2/ap-sfpf/v1.0/csprd01/ap-sfpf-v1.0-csprd01.html
 
 Permanent "Latest stage" URI:  
-https://docs.oasis-open.org/openc2/ap-sbom/v1.0/ap-sbom-v1.0.html
+https://docs.oasis-open.org/openc2/ap-sfpf/v1.0/ap-sfpf-v1.0.html
 
 (Note: Publication URIs are managed by OASIS TC Administration; please don't modify.)
 
 #### Citation format:
 When referencing this specification the following citation format should be used:
 
-**[OpenC2-SBOM-v1.0]**
+**[OpenC2-SFPF-v1.0]**
 
-_Open Command and Control (OpenC2) Profile for Software Bill of Materials Retrieval Version 1.0_. Edited by Duncan Sparrell. 13 December 2019. OASIS Committee Specification Draft 01 / Public Review Draft 01. https://docs.oasis-open.org/openc2/ap-sbom/v1.0/csprd01/ap-sbom-v1.0-csprd01.html. Latest stage: https://docs.oasis-open.org/openc2/ap-sbom/v1.0/ap-sbom-v1.0.html.
+_Open Command and Control (OpenC2) Profile for Stateless Packet Filter Version 1.0_. Edited by Alex Everett and Vasileios Mavroeidis. 20 May 2020. OASIS Committee Specification Draft 01 / Public Review Draft 01. https://docs.oasis-open.org/openc2/ap-sfpf/v1.0/csprd01/ap-sfpf-v1.0-csprd01.html. Latest stage: https://docs.oasis-open.org/openc2/ap-sfpf/v1.0/ap-sfpf-v1.0.html.
 
 -------
 
