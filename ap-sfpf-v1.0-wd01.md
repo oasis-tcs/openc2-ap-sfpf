@@ -16,7 +16,7 @@ Joe Brule (jmbrule@radium.ncsc.mil), [National Security Agency](https://www.nsa.
 Duncan Sparrell (duncan@sfractal.com), [sFractal Consulting LLC](http://www.sfractal.com/)
 
 #### Editor:
-Alex Everett (alex.everett@unc.edu), [University of North Carolina at Chapel Hill](http://www.unc.edu/)
+Alex Everett (alex.everett@unc.edu), [University of North Carolina at Chapel Hill](http://www.unc.edu/) \
 Vasileios Mavroeidis (vasileim@ifi.uio.no), [University of Oslo](https://www.uio.no)
 
 #### Additional artifacts:
